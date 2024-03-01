@@ -1,3 +1,3 @@
 # codsoft
-codsoft intern deepthi to do list website using python
+codsoft internship task1  to do list website using python
 
